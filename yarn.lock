@@ -11996,6 +11996,12 @@ __metadata:
   languageName: node
   linkType: hard
 
+"strawberry-fastapi@workspace:implementations/strawberry-fastapi":
+  version: 0.0.0-use.local
+  resolution: "strawberry-fastapi@workspace:implementations/strawberry-fastapi"
+  languageName: unknown
+  linkType: soft
+
 "stream-combiner2@npm:~1.1.1":
   version: 1.1.1
   resolution: "stream-combiner2@npm:1.1.1"

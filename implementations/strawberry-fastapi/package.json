@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "strawberry-fastapi",
+    "url": "https://strawberry.rocks",
+    "packageManager": "yarn@3.2.3",
+    "scripts": {
+        "start": "docker compose up"
+    }
+}

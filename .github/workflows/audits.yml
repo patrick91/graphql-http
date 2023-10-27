@@ -68,6 +68,7 @@ jobs:
           - lighthouse
           - pioneer
           - postgraphile
+          - strawberry-fastapi
     env:
       PORT: 4000
     steps:
